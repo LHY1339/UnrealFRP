@@ -27,3 +27,8 @@ UnrealFRP 是一个基于 `FRP（Fast Reverse Proxy）` 的 `Unreal Engine` 联�
 1. 在你的项目目录下创建一个 `Plugins` 文件夹
 2. 将 `UnrealFRP` 插件放入文件夹
 3. 重新生成并编译项目
+4. 详细使用方法见 [使用文档](DOC_CN.md)
+## 技术支持
+- QQ：3201548104
+- EMail1：3201548104@qq.com
+- EMail2：lhy1339@gmail.com
