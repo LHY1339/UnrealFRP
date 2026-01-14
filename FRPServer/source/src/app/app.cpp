@@ -86,7 +86,6 @@ void app::handle(const char* buffer, int recvlen, const sockaddr_in& addr)
 		do_reg(param, buffer, recvlen, addr);
 		return;
 	}
-	printf("error recv : %s\n", std::string(buffer, recvlen).c_str());
 }
 
 void app::do_id(const std::vector<std::string>& param, const char* buffer, int recvlen, const sockaddr_in& addr)
